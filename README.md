@@ -6,10 +6,10 @@
 - **Hyperparameter Tuning**: GridSearchCV
 - **Evaluation**: Confusion Matrix, Classification Report, ROC Curve
 
-## 📁 Dataset
+Please use the following dataset to test this project:
 
-The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
+🔗 **[Credit Card CSV Dataset – by Arockia Selciaa](https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv)**
 
-- **Samples**: 284,807
-- **Features**: 30 (anonymized)
-- **Target**: `Class` (0 = Legit, 1 = Fraud)
+1. Download the dataset from the link above.
+2. Extract the `creditcard.csv` file.
+3. Place the file in the root directory of this project (same folder as your Python script).
