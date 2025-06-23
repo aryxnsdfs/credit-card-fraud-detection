@@ -6,7 +6,7 @@ from sklearn.metrics import (
 )
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
-from imblearn.pipeline import Pipeline  # ✅ Use imblearn's Pipeline for future SMOTE support
+from imblearn.pipeline import Pipeline  
 import matplotlib.pyplot as plt
 import seaborn as sns
 from imblearn.over_sampling import SMOTE
